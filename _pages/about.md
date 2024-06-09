@@ -63,3 +63,7 @@ Here is my latest [CV](late to know).
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🎙 Skills
+- Programing: C, C++, Python
+- 
