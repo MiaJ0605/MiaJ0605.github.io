@@ -21,9 +21,10 @@ I'm a second-year M.S. student in Computer Science at the Xi'an Jiaotong Univers
 advised by [Prof. Weizhan Zhang](https://gr.xjtu.edu.cn/web/zhangwzh123). Before that, I obtained my B.Eng. degree
 from College of Electronic and Information Engineering, Xi'an Jiaotong University.
 
-My current research interests lie in：
+My current research interests lie in:
 * **Computer Vision**: Object Detection, Large Vision Model, AI-Generated Content
 * **Machine Learning**: Multi-modal Learning, Zero-shot Learning
+
 Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzLKCwXpIGh/view?usp=drive_link).
 
 
@@ -42,7 +43,7 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Caixia Yan*, **(Muyan Jiao*)**, Nuohan Xue, et al. (* means equal contributions)
+Caixia Yan+, **Muyan Jiao+**, Nuohan Xue, et al. (+ means equal contribution)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,16 +53,16 @@ Caixia Yan*, **(Muyan Jiao*)**, Nuohan Xue, et al. (* means equal contributions)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.10* The First Prize Scholarship of Xi’an Jiaotong University. 
-- *2023.8* Third Place in Task 2: Zero-Shot Object Detection in Image Challenge at ICCV 2023 Workshop on "Vision Meets Drones: A Challenge" 
-- *2022.10* Outstanding Freshman Scholarship (Grade 1).
-- *2023.10* First Prize in 32nd Innovation Track of XJTU Tengfei Cup (<5%).
+- *2023.10*  The First Prize Scholarship of Xi’an Jiaotong University. 
+- *2023.8*   Third Place in Task 2: Zero-Shot Object Detection in Image Challenge at ICCV 2023 Workshop on "Vision Meets Drones: A Challenge" 
+- *2022.10*  Outstanding Freshman Scholarship (Grade 1).
+- *2023.10*  First Prize in 32nd Innovation Track of XJTU Tengfei Cup (<5%).
 
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*, M.S. in Computer Science and Technology, XJTU.
-- *2018.09 - 2022.06*, B.E. in Computer Science and Technology, XJTU. 
-- *2016.09 - 2018.06*, XJTU Special Class for Gifted Young.
+- *2022.09 - 2024.07 (now)*  M.S. in Computer Science and Technology, XJTU.
+- *2018.09 - 2022.06*        B.E. in Computer Science and Technology, XJTU. 
+- *2016.09 - 2018.06*        XJTU Special Class for Gifted Young.
 
 
 # 🎙 Skills
