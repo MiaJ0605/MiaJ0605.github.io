@@ -43,7 +43,7 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 
 **<span style="color: #224b8d;">VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection</span>**
 
-**Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
+- **Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
 
 - Neural Networks(submitted)
 
@@ -54,8 +54,8 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 <div class='paper-box-text' markdown="1">
 
 
+**<span style="color: #224b8d;">Real-time Soccer Video Understanding System</span>**
 
-Real-time Soccer Video Understanding System
 
 - Joint Laboratory of 5G Future Media and Artificial Intelligence, XJTU & MiGu
 - Deploy during the live stream of EURO 2024
@@ -65,20 +65,17 @@ Real-time Soccer Video Understanding System
 
 
 
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
-- *2023.10*  The First Prize Scholarship of Xi’an Jiaotong University. 
-- *2023.8*   Third Place in Task 2: Zero-Shot Object Detection in Image Challenge at ICCV 2023 Workshop on "Vision Meets Drones: A Challenge" 
-- *2022.10*  Outstanding Freshman Scholarship (Grade 1).
-- *2023.10*  First Prize in 32nd Innovation Track of XJTU Tengfei Cup (<5%).
+- *2023.10*,  The First Prize Scholarship of Xi’an Jiaotong University. 
+- *2023.8*,   Third Place in Task 2: Zero-Shot Object Detection in Image Challenge at ICCV 2023 Workshop on "Vision Meets Drones: A Challenge" 
+- *2022.10*,  Outstanding Freshman Scholarship (Grade 1).
+- *2023.10*,  First Prize in 32nd Innovation Track of XJTU Tengfei Cup (<5%).
 
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*  M.S. in Computer Science and Technology, XJTU.
-- *2018.09 - 2022.06*        B.E. in Computer Science and Technology, XJTU. 
-- *2016.09 - 2018.06*        XJTU Special Class for Gifted Young.
+- *2022.09 - 2024.07 (now)*,  M.S. in Computer Science and Technology, XJTU.
+- *2018.09 - 2022.06*,        B.E. in Computer Science and Technology, XJTU. 
+- *2016.09 - 2018.06*,        XJTU Special Class for Gifted Young.
 
 
 # 🎙 Skills
