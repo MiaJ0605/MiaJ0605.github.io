@@ -45,7 +45,7 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 
 **Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
 
-Neural Networks(submitted)
+- Neural Networks(submitted)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -59,8 +59,8 @@ Neural Networks(submitted)
 
 Real-time Soccer Video Understanding System
 
-Joint Laboratory of 5G Future Media and Artificial Intelligence, XJTU & MiGu
-Deploy during the live stream of EURO 2024
+- Joint Laboratory of 5G Future Media and Artificial Intelligence, XJTU & MiGu
+- Deploy during the live stream of EURO 2024
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
