@@ -41,7 +41,7 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/frameworkV5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="color: #1E90FF;">VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection</span>
+<span style="color: #104E8B;">VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection</span>
 
 **Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
 
