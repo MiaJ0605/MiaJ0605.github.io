@@ -41,14 +41,12 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/frameworkV5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="color: #104E8B;">VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection</span>
+**<span style="color: 0000EE;">VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection</span>**
 
 **Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
 
 - Neural Networks(submitted)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -62,8 +60,6 @@ Real-time Soccer Video Understanding System
 - Joint Laboratory of 5G Future Media and Artificial Intelligence, XJTU & MiGu
 - Deploy during the live stream of EURO 2024
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
