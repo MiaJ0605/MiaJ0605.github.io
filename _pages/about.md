@@ -44,6 +44,7 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 [VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
+
 Neural Networks(submitted)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -51,12 +52,13 @@ Neural Networks(submitted)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/frameworkV5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/migu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
+
 Neural Networks(submitted)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
