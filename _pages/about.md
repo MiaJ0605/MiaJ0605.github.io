@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm a second-year M.S. student in Computer Science at the Xi'an Jiaotong University(XJTU),
-advised by [Prof. Weizhan Zhang](https://gr.xjtu.edu.cn/web/zhangwzh123). Before that, I obtained my B.Eng. degree
-from College of Electronic and Information Engineering, Xi'an Jiaotong University.
+Hello! I am currently a Ph.D. student in Computer Science at **Xi’an Jiaotong University (XJTU)**, working under the supervision of [Prof. Weizhan Zhang](https://gr.xjtu.edu.cn/en/web/zhangwzh123/1) in [Academician Qinghua Zheng's lab](https://gr.xjtu.edu.cn/en/web/qhzheng/1). My research focuses on:
 
 My current research interests lie in:
+* **Multimodal Large Models** – Cross-Modal Representation, Vision-Language Alignment
 * **Computer Vision**: Object Detection, Large Vision Model, AI-Generated Content
 * **Machine Learning**: Multi-modal Learning, Zero-shot Learning
 
@@ -31,9 +30,8 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 
 
 # 🔥 News
-- *2022.02*: &nbsp; s ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: Our paper ***VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection*** has been accepted by ***Neural Networks (NN)***.
+
 
 
 # 📝 Researches & Projects
@@ -45,7 +43,7 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 
 - **Muyan Jiao+**, Caixia Yan+, Nuohan Xue, et al. (+ means equal contribution)
 
-- Neural Networks(submitted)
+- Neural Networks
 
 </div>
 </div>
@@ -73,7 +71,8 @@ Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzL
 
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*,  M.S. in Computer Science and Technology, XJTU.
+- *2025.09 - now*,            Ph.D. in Computer Science and Technology, XJTU
+- *2022.09 - 2025.06*,        M.S. in Computer Science and Technology, XJTU
 - *2018.09 - 2022.06*,        B.E. in Computer Science and Technology, XJTU. 
 - *2016.09 - 2018.06*,        XJTU Special Class for Gifted Young.
 
