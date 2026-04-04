@@ -24,7 +24,7 @@ My current research interests lie in:
 * **Computer Vision**: Object Detection, Large Vision Model, AI-Generated Content
 * **Machine Learning**: Multi-modal Learning, Zero-shot Learning
 
-Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzLKCwXpIGh/view?usp=drive_link).
+<!-- Here is my latest [CV](https://drive.google.com/file/d/1GReY2HbjWz439kIc5LSmfIzLKCwXpIGh/view?usp=drive_link). -->
 
 
 
