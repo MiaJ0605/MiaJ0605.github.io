@@ -52,7 +52,7 @@ My current research interests lie in:
 <div class='paper-box-text' markdown="1">
 
 
-**<span style="color: #224b8d;">Real-time Soccer Video Understanding System</span>**
+**<span style="color: #224b8d;">Content-Aware Player Identification with Multi-Task Fusion for Soccer Matches</span>**
 
 
 - Joint Laboratory of 5G Future Media and Artificial Intelligence, XJTU & MiGu
@@ -65,9 +65,9 @@ My current research interests lie in:
 
 # 🎖 Honors and Awards
 - *2023.10*,  The First Prize Scholarship of Xi’an Jiaotong University. 
-- *2023.8*,   Third Place in Task 2: Zero-Shot Object Detection in Image Challenge at ICCV 2023 Workshop on "Vision Meets Drones: A Challenge" 
+- *2023.08*,   Third Place in Task 2: Zero-Shot Object Detection in Image Challenge at ICCV 2023 Workshop on "Vision Meets Drones: A Challenge" 
 - *2022.10*,  Outstanding Freshman Scholarship (Grade 1).
-- *2023.10*,  First Prize in 32nd Innovation Track of XJTU Tengfei Cup (<5%).
+- *2021.10*,  First Prize in 32nd Innovation Track of XJTU Tengfei Cup (<5%).
 
 
 # 📖 Educations
@@ -78,5 +78,8 @@ My current research interests lie in:
 
 
 # 🎙 Skills
-- Programing: C, C++, Python, Java
+- Programming: Python, C/C++, PyTorch, Git, Linux
+- Language: English (CET-6, IELTS) 
+- Foundation Models: LLaMA, Qwen, DeepSeek; post-training methods including SFT, RLHF, DPO, and GRPO  
+- Fine-tuning: LoRA, LLaMA Factory, LLaVA 
 - Music: Guitar, Piano
